@@ -17,7 +17,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300645c080d0a15af12a9",
     "_parentId": "course",
     "_type": "page",
@@ -91,7 +91,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300d75c080d0a15af130f",
     "_parentId": "course",
     "_type": "page",
@@ -153,7 +153,7 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Qualitative methods can be used to gather insights on user&nbsp;needs, which will help you to effectively design your products/&nbsp;services.​</p><p>This section will introduce you to:</p><ul><li>some universal&nbsp;considerations for conducting qualitative research</li><li>qualitative research methods - including when they may or may not be appropriate</li><li>online vs offline considerations in research</li></ul>",
+    "pageBody": "<p>Qualitative methods can be used to gather insights on user&nbsp;needs, which will help you to effectively design your products or services.​</p><p>This section will introduce you to:</p><ul><li>some universal&nbsp;considerations for conducting qualitative research</li><li>qualitative research methods - including when they may or may not be appropriate</li><li>online vs offline considerations in research</li></ul>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -165,7 +165,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a303365c080d0a15af131b",
     "_parentId": "course",
     "_type": "page",
@@ -183,6 +183,10 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -202,7 +206,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -227,7 +241,7 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<ul><li>this section aims to give an overview of the considerations you need to&nbsp;make when analysing, and reporting on, your qualitative data.&nbsp;​</li><li>it won't be a step-by-step guide on how to conduct qualitative&nbsp;analysis,&nbsp;but&nbsp;will cover everything you need to be aware of&nbsp;in order to&nbsp;start&nbsp;thinking about your analysis and report writing.&nbsp;</li></ul>",
+    "pageBody": "<p>This section aims to give an overview of the considerations you need to&nbsp;make when analysing, and reporting on, your qualitative data.&nbsp;​</p><p>It won't be a step-by-step guide on how to conduct qualitative&nbsp;analysis,&nbsp;but&nbsp;will cover everything you need to be aware of&nbsp;in order to&nbsp;start&nbsp;thinking about your analysis and report writing.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -239,7 +253,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a309425c080d0a15af132e",
     "_parentId": "course",
     "_type": "page",
@@ -257,6 +271,10 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -276,7 +294,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -301,7 +329,7 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 3.&nbsp;</p><p><strong>You have now reached the end of the Data Collection Fundamentals course!</strong>&nbsp;</p>",
+    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 3.&nbsp;</p><p><strong>You have now reached the end of the Data Collection Fundamentals course!</strong>&nbsp;</p><p>To give your feedback on the course, please complete this <a href=\"https://www.smartsurvey.co.uk/s/DTF7U3/\" target=\"_blank\">short survey</a>. We are continuously looking to improve the quality and effectiveness of the training we develop, so your feedback is important to us.<br />&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -313,7 +341,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300645c080d0a15af12aa",
     "_parentId": "course",
     "_type": "page",
@@ -331,6 +359,10 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -350,7 +382,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",

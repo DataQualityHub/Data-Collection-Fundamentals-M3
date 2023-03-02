@@ -10,7 +10,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300645c080d0a15af12b1",
     "_parentId": "63a300645c080d0a15af12a9",
     "_type": "article"
@@ -26,7 +26,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300645c080d0a15af12b2",
     "_parentId": "63a300645c080d0a15af12aa",
     "_type": "article"
@@ -42,7 +42,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300d85c080d0a15af1310",
     "_parentId": "63a300d75c080d0a15af130f",
     "_type": "article"
@@ -58,7 +58,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a303365c080d0a15af131c",
     "_parentId": "63a303365c080d0a15af131b",
     "_type": "article"
@@ -74,7 +74,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a309435c080d0a15af132f",
     "_parentId": "63a309425c080d0a15af132e",
     "_type": "article"
@@ -90,7 +90,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300645c080d0a15af12b3",
     "_parentId": "63a300645c080d0a15af12aa",
     "_type": "article"
@@ -106,7 +106,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a309095c080d0a15af1328",
     "_parentId": "63a303365c080d0a15af131b",
     "_type": "article"
@@ -122,7 +122,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a309245c080d0a15af132b",
     "_parentId": "63a300d75c080d0a15af130f",
     "_type": "article"
@@ -138,7 +138,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a30bfc5c080d0a15af133e",
     "_parentId": "63a309425c080d0a15af132e",
     "_type": "article"
@@ -154,7 +154,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300645c080d0a15af12af",
     "_parentId": "63a300645c080d0a15af12a9",
     "_type": "article",
@@ -243,7 +243,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "63a300645c080d0a15af12b0",
     "_parentId": "63a300645c080d0a15af12a9",
     "_type": "article"
