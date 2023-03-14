@@ -1,12 +1,12 @@
 {
   "title": "Data Collection Fundamentals - Module 3",
   "displayTitle": "Data Collection Fundamentals - Module 3",
-  "body": "<p>Welcome to the Data Collection Fundamentals.&nbsp;​</p><p>This course has been created by&nbsp;the Government Data Quality Hub&nbsp;within the Office for National Statistics (ONS).&nbsp;We work&nbsp;across&nbsp;government to improve the quality of data.&nbsp;​</p><p>If you have any comments or questions, please email&nbsp;<a href=\"mailto:DQHub@ons.gov.uk\" rel=\"noreferrer\" target=\"_blank\">DQHub@ons.gov.uk</a>​</p><p>Disclaimer: This course will include links to third parties. ONS have not&nbsp;developed content for or vetted any content associated with these&nbsp;links. ONS do not endorse or have a contract with the third parties for&nbsp;these products. The links are for recommended further reading only&nbsp;and other sources are available.</p>",
+  "body": "<p>Welcome to Data Collection Fundamentals.&nbsp;​</p><p>This course has been created by&nbsp;the Government Data Quality Hub&nbsp;within the Office for National Statistics (ONS).&nbsp;We work&nbsp;across&nbsp;government to improve the quality of data.&nbsp;​</p><p>If you have any comments or questions, please email&nbsp;<a href=\"mailto:DQHub@ons.gov.uk\" rel=\"noreferrer\" target=\"_blank\">DQHub@ons.gov.uk</a>​</p><p>Disclaimer: This course will include links to third parties. ONS have not&nbsp;developed content for or vetted any content associated with these&nbsp;links. ONS do not endorse or have a contract with the third parties for&nbsp;these products. The links are for recommended further reading only&nbsp;and other sources are available.</p>",
   "subtitle": "",
   "description": "",
   "instruction": "Select a topic to begin.",
   "_htmlClasses": "mainPage",
-  "_latestTrackingId": 28,
+  "_latestTrackingId": 27,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -318,7 +318,7 @@
     "_isBottomOnTouchDevices": false
   },
   "_close": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_button": {
       "_closeViaLMSFinish": true,
       "_isEnabled": true,
@@ -355,14 +355,14 @@
     }
   },
   "_pageLevelProgress": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true,
     "_showAtCourseLevel": false
   },
   "_resources": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_drawerOrder": 0,
     "title": "Resources",
     "description": "Select here to view resources for this course",

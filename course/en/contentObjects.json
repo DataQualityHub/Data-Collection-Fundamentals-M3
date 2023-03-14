@@ -9,7 +9,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "2 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -36,6 +36,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -54,7 +58,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -79,11 +93,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Recruitment refers to the sampling of your participants and is an&nbsp;important part of your research.&nbsp;​The way in which you recruit can impact on the success of your&nbsp;testing and the extent to which your findings are accurate and&nbsp;applicable​.</p><p>In qualitative research,&nbsp;the sample size can be quite small, relative to&nbsp;quantitative research. That's because it doesn't need to be&nbsp;statistically significant, and we don't quantify&nbsp;our findings.&nbsp;Instead,&nbsp;we aim for 'symbolic representation'&nbsp; and for the sample to be as&nbsp;diverse as possible within&nbsp;the population of interest.</p><p>In this section we will cover:</p><ul><li>recruitment matrixes&nbsp;- what they are and why they're useful&nbsp;</li><li>recruitment agencies - the advantages and disadvantages</li><li>the use of incentives in research</li></ul>",
+    "pageBody": "<p>In this section we will cover:</p><ul><li>recruitment matrixes&nbsp;- what they are and why they're useful&nbsp;</li><li>recruitment agencies - the advantages and disadvantages</li><li>the use of incentives in research</li></ul><p>&nbsp;</p><p>Recruitment refers to the sampling of your participants and is an&nbsp;important part of your research.&nbsp;​The way in which you recruit can impact on the success of your&nbsp;testing and the extent to which your findings are accurate and&nbsp;applicable​.</p><p>In qualitative research,&nbsp;the sample size can be quite small, relative to&nbsp;quantitative research. That's because it doesn't need to be&nbsp;statistically significant, and we don't quantify&nbsp;our findings.&nbsp;Instead,&nbsp;we aim for 'symbolic representation' and for the sample to be as&nbsp;diverse as possible, within&nbsp;the population of interest.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "7 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -110,6 +124,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -128,7 +146,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -153,11 +181,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Qualitative methods can be used to gather insights on user&nbsp;needs, which will help you to effectively design your products or services.​</p><p>This section will introduce you to:</p><ul><li>some universal&nbsp;considerations for conducting qualitative research</li><li>qualitative research methods - including when they may or may not be appropriate</li><li>online vs offline considerations in research</li></ul>",
+    "pageBody": "<p>This section will introduce you to:</p><ul><li>some universal&nbsp;considerations for conducting qualitative research</li><li>qualitative research methods - including when they may or may not be appropriate</li><li>online vs offline considerations in research</li></ul>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "20 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -245,7 +273,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "5 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -329,11 +357,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 3.&nbsp;</p><p><strong>You have now reached the end of the Data Collection Fundamentals course!</strong>&nbsp;</p><p>To give your feedback on the course, please complete this <a href=\"https://www.smartsurvey.co.uk/s/DTF7U3/\" target=\"_blank\">short survey</a>. We are continuously looking to improve the quality and effectiveness of the training we develop, so your feedback is important to us.<br />&nbsp;</p>",
+    "pageBody": "<p><strong>Congratulations!</strong></p><p>You have reached the end of Module 3.&nbsp;</p><p><strong>You have now reached the end of the Data Collection Fundamentals course!</strong>&nbsp;</p><p>To give your feedback on the course, please complete this <a href=\"https://www.smartsurvey.co.uk/s/DTF7U3/\" target=\"_blank\">short survey</a>. We are continuously looking to improve the quality and effectiveness of the training we develop, so your feedback is important to us.</p><p>&nbsp;</p><p>In this module, we covered:</p><ul><li><p>qualitative Sampling and recruitment – consider whether in-house&nbsp;recruitment is feasible, or if&nbsp;you will&nbsp;need a recruitment agency. A&nbsp;recruitment matrix can help with defining your recruitment&nbsp;process</p></li><li><p>qualitative research methods – understand the&nbsp;contexts in&nbsp;which methods are, and&nbsp;aren't&nbsp;appropriate, and decide whether&nbsp;your research should be online or&nbsp;offline​</p></li><li><p>qualitative reporting and Analysis – consider how to prepare,&nbsp;analyse and report on the qualitative data&nbsp;collected</p></li></ul>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "3 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
